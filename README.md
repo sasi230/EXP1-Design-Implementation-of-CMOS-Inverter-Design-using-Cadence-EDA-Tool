@@ -1,4 +1,4 @@
-![nature-8534135_1280](https://github.com/user-attachments/assets/49c0e130-0d27-4ada-8153-e81b0a5801dc)Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
 Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
