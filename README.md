@@ -26,12 +26,12 @@ iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
 
-i)	Procedure for Creating New Library.
+### i)	Procedure for Creating New Library.
 +	File –New – Library
 +	Name: Give name for ur library Ex: VLSILAB_EXP_1
 +	Enable Attach to an existing technology library, Click OK
 +	Attach the library to the technology library gpdk045.Click OK
-ii)	Create Schematic Cell view.
+### ii)	Create Schematic Cell view.
 +	Go to 1st window i.e virtuoso (CIW)
 +	File-New-Cell view
 +	Setup the new file form
@@ -51,7 +51,7 @@ ii)	Create Schematic Cell view.
 
 
  
-iii)	Creating the Symbol for schematic Cell view
+### iii)	Creating the Symbol for schematic Cell view
 
 +	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -69,7 +69,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 
 
-## iv)	Creating the new test cell view
+### iv)	Creating the new test cell view
 
 +	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
@@ -93,12 +93,13 @@ iii)	Creating the Symbol for schematic Cell view
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 +	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+
+![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 ## For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
 ![Screenshot 2024-09-01 000611](https://github.com/user-attachments/assets/8ffb62be-a024-41f8-9f30-15591b5907b9)
 
